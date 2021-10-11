@@ -39,3 +39,12 @@ code {
     transform: rotateY(3600deg);
   }
 }
+
+.container-profile {
+  width: 21%;
+  height: 355px;
+  margin: 6px;
+  border-radius: 26px;
+  border: 1px solid ;
+  padding: 10px;
+}
